@@ -1,5 +1,5 @@
-# Locally-Interpretable Rule Ensemble
-Temporary repository for our paper "Learning Locally-Interpretable Rule Ensemble."
+# Locally Interpretable Rule Ensemble
+Temporary repository for our paper "Learning Locally Interpretable Rule Ensemble."
 
 ## Basic Usage
 Running examples are provided in ``demo.ipynb``.
